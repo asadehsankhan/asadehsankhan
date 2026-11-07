@@ -1,3 +1,8 @@
 
-Hello my profile visitor, I am a Cybersecurity student who have previously worked with different roles such as HR/Admin, Amazon Station Support, and Technical and Customer Support. I have been a tech geek since childhood. I love tech gadgets, experimenting with softwares, trying different operating systems, and exploring security and privacy. Now I am fully focused on Cybersecurity. I code in my free time to strengthen my skills in pentesting system defense, and network security. 
-Always curious. Always learning.
+Hello, and welcome to my profile! 👋
+
+I am an aspiring cloud engineer with a background in technical and customer support, including work at Amazon station support. I have been a tech geek since childhood. I love gadgets, experimenting with software, trying different operating systems, and exploring security and privacy.
+
+Right now, I am focused on Linux, networking, and cloud platforms. In my free time, I also code and practice cybersecurity, including network security and system defense.
+
+Always curious. Always learning
